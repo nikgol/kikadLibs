@@ -1,0 +1,4 @@
+kikadLibs
+=========
+
+kiCad library
